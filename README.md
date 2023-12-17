@@ -22,7 +22,5 @@ Feel free to navigate through the pages, enjoy the story, and explore character 
 - `alex_photo5.jpg`: Alex transforming back.
 
 ## Author
-[Your Name]
+Mandasmitha Thennakoon
 
-## License
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
